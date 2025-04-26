@@ -7,8 +7,6 @@ body {
 
 .main-img {
     margin: 20px auto;
-    max-width: 200px;
-    height: 200px;
     border: 1px solid white;
     border-radius: 10px;
     background-image: url("media/images/sean.gif");
