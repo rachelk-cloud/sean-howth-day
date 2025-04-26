@@ -5,6 +5,15 @@ body {
     color: #0D1321;
 }
 
+.main-img {
+    margin: 20px auto;
+    max-width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-image: url("media/images/sean.gif");
+    background-size: cover;
+}
 
 #header {
     display: flex;
@@ -23,8 +32,12 @@ body {
 
 
 .gift-img {
+    margin: 20px auto;
+    max-width: 200px;
+    height: 200px;
     border: 1px solid white;
-    background-image: url("media/images/sean.gif");
+    border-radius: 10px;
+    background-image: url("media/images/gift.png");
     background-size: cover;
 }
 
