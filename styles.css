@@ -32,6 +32,6 @@ body {
     background-size: cover;
 }
 
-#gift-img-happy:hover and pointer:fine {
+#gift-img-happy:hover {
     background-image: url("media/images/howth-gif.gif");
 }
