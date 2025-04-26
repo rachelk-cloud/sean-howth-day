@@ -9,7 +9,6 @@ body {
     margin: 20px auto;
     border: 1px solid white;
     border-radius: 10px;
-    background-size: cover;
 }
 
 #header {
@@ -28,7 +27,7 @@ body {
 }
 
 
-/* .gift-img {
+.gift-img {
     margin: 20px auto;
     max-width: 200px;
     height: 200px;
@@ -36,7 +35,7 @@ body {
     border-radius: 10px;
     background-image: url("media/images/gift.png");
     background-size: cover;
-} */
+}
 
 #gift-img-happy:hover {
     background-image: url("media/images/howth-gif.gif");
